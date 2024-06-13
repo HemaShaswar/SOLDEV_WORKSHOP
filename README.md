@@ -1,2 +1,3 @@
 # soldev
-soldev.app/course labs and exercises
+
+some soldev.app/course labs and exercises
